@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vitest": "^0.9.3"
+  },
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  }
+}
